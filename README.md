@@ -1,9 +1,8 @@
 ## Developed by: Ragul A C
 ## Register No: 212221240042
+## Date : 
 
 # EX.NO : 02--LINEAR AND POLYNOMIAL TREND ESTIMATION...
-
-### Date : 
 
 ### AIM :
 
